@@ -9,7 +9,7 @@ app=Flask(__name__)
 
 SQLALCHEMY_DATABASE_URI = "mysql://{username}:{password}@{hostname}/{databasename}".format(
     username="root",
-    password="Lakshmi@123",
+    password="XXXXX",
     hostname="localhost",
     databasename="todo",
 )
